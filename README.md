@@ -1,2 +1,2 @@
-# lab-agile-planning
-Este repositorio contiene el laboratorio para la evaluación final
+# Proyecto Final
+Este repositorio contiene el proyecto final
