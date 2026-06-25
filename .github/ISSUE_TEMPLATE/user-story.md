@@ -1,9 +1,9 @@
 ---
 name: User Story
-about: This Template is for creating user stories
-title: ''
-labels: ''
-assignees: ''
+about: This template is for creating user stories
+title: "[User Story] "
+labels: user story
+assignees: jolayux
 
 ---
 
