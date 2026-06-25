@@ -6,7 +6,7 @@ labels: user story
 assignees: jolayux
 ---
 
-## User Story
+## Historia de usuario
 
 Como [role]  
 Necesito [function]  
@@ -18,7 +18,6 @@ Para que [benefit]
 
 ## Criterios de aceptación
 
-```gherkin
-Dado [some context]
-Cuando [certain action is taken]
+Dado [some context]  
+Cuando [certain action is taken]  
 Entonces [the outcome of action is observed]
